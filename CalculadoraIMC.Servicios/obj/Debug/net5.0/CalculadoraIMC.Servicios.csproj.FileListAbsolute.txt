@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\Ejercicios\CalculadoraIMC\CalculadoraIMC.Servicios\bin\Debug\net5.0\CalculadoraIMC.Servicios.deps.json
+C:\Users\Lenovo\source\repos\Ejercicios\CalculadoraIMC\CalculadoraIMC.Servicios\bin\Debug\net5.0\CalculadoraIMC.Servicios.dll
+C:\Users\Lenovo\source\repos\Ejercicios\CalculadoraIMC\CalculadoraIMC.Servicios\bin\Debug\net5.0\CalculadoraIMC.Servicios.pdb
+C:\Users\Lenovo\source\repos\Ejercicios\CalculadoraIMC\CalculadoraIMC.Servicios\obj\Debug\net5.0\CalculadoraIMC.Servicios.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Ejercicios\CalculadoraIMC\CalculadoraIMC.Servicios\obj\Debug\net5.0\CalculadoraIMC.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Ejercicios\CalculadoraIMC\CalculadoraIMC.Servicios\obj\Debug\net5.0\CalculadoraIMC.Servicios.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Ejercicios\CalculadoraIMC\CalculadoraIMC.Servicios\obj\Debug\net5.0\CalculadoraIMC.Servicios.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Ejercicios\CalculadoraIMC\CalculadoraIMC.Servicios\obj\Debug\net5.0\CalculadoraIMC.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Ejercicios\CalculadoraIMC\CalculadoraIMC.Servicios\obj\Debug\net5.0\CalculadoraIMC.Servicios.dll
+C:\Users\Lenovo\source\repos\Ejercicios\CalculadoraIMC\CalculadoraIMC.Servicios\obj\Debug\net5.0\refint\CalculadoraIMC.Servicios.dll
+C:\Users\Lenovo\source\repos\Ejercicios\CalculadoraIMC\CalculadoraIMC.Servicios\obj\Debug\net5.0\CalculadoraIMC.Servicios.pdb
+C:\Users\Lenovo\source\repos\Ejercicios\CalculadoraIMC\CalculadoraIMC.Servicios\obj\Debug\net5.0\ref\CalculadoraIMC.Servicios.dll

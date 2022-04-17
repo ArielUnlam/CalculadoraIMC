@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraIMC", "CalculadoraIMC\CalculadoraIMC.csproj", "{AF0D3A5C-9B15-4724-88E0-BD86C9665D86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraIMC.Servicios", "CalculadoraIMC.Servicios\CalculadoraIMC.Servicios.csproj", "{65660857-B20A-4918-9C92-551F4024D903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF0D3A5C-9B15-4724-88E0-BD86C9665D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0D3A5C-9B15-4724-88E0-BD86C9665D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0D3A5C-9B15-4724-88E0-BD86C9665D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0D3A5C-9B15-4724-88E0-BD86C9665D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65660857-B20A-4918-9C92-551F4024D903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65660857-B20A-4918-9C92-551F4024D903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65660857-B20A-4918-9C92-551F4024D903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65660857-B20A-4918-9C92-551F4024D903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE41A9C8-0DC3-4330-95F5-66D820F3EFFF}
+	EndGlobalSection
+EndGlobal
